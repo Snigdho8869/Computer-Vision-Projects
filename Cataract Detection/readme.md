@@ -40,4 +40,7 @@ This project focuses on detecting cataracts in eye images using deep-learning mo
 - Evaluation metrics include loss and accuracy.
 - Sample images are loaded, and predictions are made to determine if the images show signs of cataracts.
 
+## Results
 
+- The Inception model achieves an accuracy of 97.36%
+- The CNN model achieves an accuracy of 90.31%
