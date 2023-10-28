@@ -17,4 +17,8 @@ This repository contains code for MNIST image classification using a convolution
 
 - An autoencoder is created to compress and reconstruct MNIST images. However, the focus is on the encoder part of the autoencoder to classify images.
 
+## Results
+
+- The CNN model achieves an accuracy of 99.40%
+- The Autoencoder based encoder classifier achieves an accuracy of 96.22%
 
