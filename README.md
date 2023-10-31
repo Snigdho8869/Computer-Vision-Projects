@@ -1,7 +1,8 @@
 # Computer Vision Projects
 This repository hosts a collection of computer vision projects using deep learning techniques, focusing on various real-world applications. Each project is designed to demonstrate the power of transfer learning and convolutional neural networks (CNN) in solving practical problems. Here's what you'll find in this repository:
 
-# Projects:
+## Project Highlights:
+
 - **Cataract Detection:**
   Detect cataracts in eye images using pre-trained models and fine-tuning.
 
